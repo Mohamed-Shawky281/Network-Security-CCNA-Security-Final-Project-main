@@ -112,6 +112,4 @@ It simulates a real-world enterprise network integrating routing, switching, sec
 ### 🔹 Wireless Home Network
 ![Wireless](Screenshots/Wireless-HomeNetwork_Brief.jpg)
 
----
 
-## 📂 Repository Structure
